@@ -1,0 +1,17 @@
+C:\Users\mamendoza\source\sandbox\core-api-project\core-api.tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\mamendoza\source\sandbox\core-api-project\core-api.tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\mamendoza\source\sandbox\core-api-project\core-api.tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\mamendoza\source\sandbox\core-api-project\core-api.tests\bin\Debug\netcoreapp2.1\core-api.tests.deps.json
+C:\Users\mamendoza\source\sandbox\core-api-project\core-api.tests\bin\Debug\netcoreapp2.1\core-api.tests.runtimeconfig.json
+C:\Users\mamendoza\source\sandbox\core-api-project\core-api.tests\bin\Debug\netcoreapp2.1\core-api.tests.runtimeconfig.dev.json
+C:\Users\mamendoza\source\sandbox\core-api-project\core-api.tests\bin\Debug\netcoreapp2.1\core-api.tests.dll
+C:\Users\mamendoza\source\sandbox\core-api-project\core-api.tests\bin\Debug\netcoreapp2.1\core-api.tests.pdb
+C:\Users\mamendoza\source\sandbox\core-api-project\core-api.tests\obj\Debug\netcoreapp2.1\core-api.tests.csprojAssemblyReference.cache
+C:\Users\mamendoza\source\sandbox\core-api-project\core-api.tests\obj\Debug\netcoreapp2.1\core-api.tests.csproj.CoreCompileInputs.cache
+C:\Users\mamendoza\source\sandbox\core-api-project\core-api.tests\obj\Debug\netcoreapp2.1\core-api.tests.AssemblyInfoInputs.cache
+C:\Users\mamendoza\source\sandbox\core-api-project\core-api.tests\obj\Debug\netcoreapp2.1\core-api.tests.AssemblyInfo.cs
+C:\Users\mamendoza\source\sandbox\core-api-project\core-api.tests\obj\Debug\netcoreapp2.1\core-api.tests.dll
+C:\Users\mamendoza\source\sandbox\core-api-project\core-api.tests\obj\Debug\netcoreapp2.1\core-api.tests.pdb
+C:\Users\mamendoza\source\sandbox\core-api-project\core-api.tests\bin\Debug\netcoreapp2.1\core-api.dll
+C:\Users\mamendoza\source\sandbox\core-api-project\core-api.tests\bin\Debug\netcoreapp2.1\core-api.pdb
+C:\Users\mamendoza\source\sandbox\core-api-project\core-api.tests\obj\Debug\netcoreapp2.1\core-api.tests.csproj.CopyComplete
